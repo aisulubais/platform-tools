@@ -1,0 +1,8 @@
+environment: staging
+
+prometheus:
+  replicas: 2
+
+grafana:
+  replicas: 1
+  hostname: grafana-team-staging.example.com

@@ -1,0 +1,8 @@
+environment: dev
+
+prometheus:
+  replicas: 1
+
+grafana:
+  replicas: 1
+  hostname: grafana-team-dev.example.com

@@ -1,0 +1,8 @@
+environment: production
+
+prometheus:
+  replicas: 2
+
+grafana:
+  replicas: 2
+  hostname: grafana-team-prod.example.com
