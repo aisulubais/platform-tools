@@ -1,0 +1,6 @@
+apiVersion: v2
+name: eks-monitoring
+description: Custom Prometheus and Grafana monitoring stack for AWS EKS
+type: application
+version: 0.1.0
+appVersion: "1.0"
